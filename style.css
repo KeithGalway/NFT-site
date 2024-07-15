@@ -1,0 +1,188 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* UTILITY */
+
+.light {
+    color: #5f29a3;
+    background-color: #f0e0ff;
+    font-weight: 700;
+}
+
+.mid {
+    color: #5f29a3;
+    background-color: #d0aaff;
+    font-weight: 700;
+}
+
+.dark {
+    color: #f4f4f4;
+    background-color: #5f29a3;
+    font-weight: 700;
+}
+
+/* GLOBAL */
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+section {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+.section-one__link,
+.section-two__link {
+    padding: 10px 20px;
+    border-radius: 7.5px;
+}
+
+/* HEADER */
+
+.header {
+    background-color: #5f29a3;
+}
+
+/* SECTION-ONE */
+
+/* SECTION-TWO */
+
+/* FOOTER */
+
+.footer {
+    text-align: center;
+}
+
+
+
+/* Typography */
+
+/* h1, h3 {
+    margin: 0;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 36px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+h3 {
+    color: #d0aaff;
+    font-size: 20px;
+}
+
+p {
+    line-height: 23px;
+} */
+
+/* Links */
+
+/* a {
+    color: #ef5839;
+    text-decoration: underline dotted;
+}
+
+a:hover, a:active {
+    color: #d4b44c;
+}
+
+.btn {
+    padding: 10px 19px;
+    border-radius: 4.6px;
+    font-weight: 500;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn-dark {
+    background-color: #5f29a3;
+    color: whitesmoke;
+}
+
+.btn-mid {
+    background-color: #f0e0ff;
+    color: #5f29a3;
+}
+
+.btn-light {
+    background: whitesmoke;
+    color: #5f29a3;
+}
+
+.btn:hover,
+.btn:active {
+    background: #f3e885;
+    color: #2b283a;
+} */
+
+/* Layout */
+
+/* header, 
+section, 
+footer {
+    padding: 45px 0;
+}
+
+header, .section-two {
+    background-color: #5f29a3;
+}
+
+.section-two {
+    color: whitesmoke;
+}
+
+.container {
+    width: 620px;
+    margin: 0 auto;
+}
+
+.main-image {
+    width: 100%;
+}
+
+.section-two-image-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.feature-image {
+    width: 300px;
+    border-radius: 4.6px;
+}
+
+footer {
+    text-align: center;
+    color: #5f29a3;
+} */
